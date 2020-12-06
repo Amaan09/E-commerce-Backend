@@ -12,6 +12,7 @@ flake8==3.8.4
 flash==1.0.3
 Flask==1.1.2
 Flask-WTF==0.14.3
+gunicorn==20.0.4
 idna==2.10
 isort==5.6.4
 itsdangerous==1.1.0
